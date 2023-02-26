@@ -43,7 +43,7 @@ ul.nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 50px;
+    gap: 100px;
     
 }
 
@@ -80,7 +80,7 @@ section.one{
 }
 
 .left{
-    width: 50%;
+    width: 60%;
 }
 
 .right{
@@ -160,6 +160,10 @@ h3{
     letter-spacing: 0.5px;
     line-height: 150%;
     margin-bottom: 20px;
+}
+
+.two .btns{
+    padding: 10px 45px;
 }
 
 .buttons{
